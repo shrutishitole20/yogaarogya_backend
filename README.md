@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YOGAAROGYA Backend
 
 ## Overview
@@ -44,3 +45,6 @@ All API interactions go through Supabase client:
 - User isolation policies
 - Public read access for testimonials only
 - Secure authentication flow
+=======
+# shrutishitole20-yogaarogya_backend
+>>>>>>> b956b39ec8ea269772543ed01f6e57212b6820d5
