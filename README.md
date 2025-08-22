@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # YOGAAROGYA Backend
 
 ## Overview
@@ -48,3 +49,6 @@ All API interactions go through Supabase client:
 =======
 # shrutishitole20-yogaarogya_backend
 >>>>>>> b956b39ec8ea269772543ed01f6e57212b6820d5
+=======
+# yogaarogya_backenddata
+>>>>>>> 15fa83448862f43a02d9aac34b64f225947aec9b
